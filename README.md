@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huato112&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Hey 👋, I'm [Huaat!](https://github.com/huato112/)
+## Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [Huaat!](https://github.com/huato112/)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/a.mornp/)
 
