@@ -1,11 +1,11 @@
 ### Huaat 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuskingcup&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huato112&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuskingcup&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huato112&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Dukeon](https://github.com/huato112/tuskingcup/blob/main/image/dukemon.gif)
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tuskingcup)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=huato112)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
