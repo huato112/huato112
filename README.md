@@ -1,7 +1,15 @@
-### Hi there 👋
+### Huaat 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuskingcup&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuskingcup&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Dukeon](https://github.com/huato112/tuskingcup/blob/main/image/dukemon.gif)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tuskingcup)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!--
-**huato112/huato112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tuskingcup/tuskingcup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
